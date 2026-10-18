@@ -1,0 +1,19 @@
+# Raw recordings and derived numerical results
+*.xlsx
+*.xls
+*.csv
+*.mat
+data/
+results/
+output/
+
+# MATLAB editor backups and generated files
+*.asv
+*.autosave
+*.m~
+slprj/
+*.slxc
+
+# Local plots
+figures/
+*.fig
